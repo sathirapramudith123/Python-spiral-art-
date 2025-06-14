@@ -33,7 +33,3 @@ cd Python-spiral-art-
 
 
 
-
-https://github.com/user-attachments/assets/24fef923-65cd-423e-b125-c50aaf65b40b
-
-
